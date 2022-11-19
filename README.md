@@ -1,2 +1,5 @@
-# Criptografia_
- Programa em Java que critptografa uma mensagem simples
+# Cripritografia
+ Programa em Java que criptografa uma mensagem simples
+
+## Imagem do Projeto
+ ![Criptografia](criptografia.png)
